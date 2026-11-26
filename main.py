@@ -1,7 +1,3 @@
-# Лабораторная работа №2. Вариант 47
-# Задание 1: фильтр Гаусса
-# Задание 2: цветокоррекция по шаблону
-
 from datetime import datetime
 from PIL import Image, ImageFilter, ImageStat
 
