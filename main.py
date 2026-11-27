@@ -42,7 +42,6 @@ def main():
         template_name = "image1.jpg"
 
     try:
-        # Поиск и открытие файла
         f = open(path, "rb")
         img = Image.open(f)
         img = img.convert("RGB")
